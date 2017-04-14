@@ -19,7 +19,7 @@ Default:
 Custom:
 
 .my-spinner {
- @include spinner(1.25em, 3px solid #555, .7s, background rgba(0, 0, 0, .2);
+ @include spinner(1.25em, 3px solid #555, .7s, background rgba(0, 0, 0, .2));
 }
 
 All arguments are optional.
